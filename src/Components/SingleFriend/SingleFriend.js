@@ -9,6 +9,7 @@ const SingleFriend = (props) => {
         const path = `/friend/${id}`
         navigate(path);
     }
+    
     // const navigate = useNavigate();
     // const showFriendDetail = () => {
     //     navigate('/about'+ id);
